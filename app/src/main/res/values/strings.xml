@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">EasyPass</string>
+    <string name="welcome">EasyPass</string>
+    <string name="welcome1">Welcome to</string>
+    <string name="welcome2">SRIET</string>
+    <string name="button">PERSONAL</string>
+    <string name="personal_share">share</string>
+
+    <string name="button1">ON DUTY</string>
+    <string name="button2">EMERGENCY</string>
+    <string name="welcome4">EasyPass</string>
+    <string name="enterName">Enter Your Name</string>
+    <string name="preview_button">PREVIEW</string>
+    <string name="enterCollegeName">Enter College Name</string>
+    <string name="registerNumber">Enter Your Register Number </string>
+    <string name="enterReason">Enter Reason for On_Duty</string>
+    <string name="enterReason1">Enter Reason</string>
+    <string name="welcome3">Get your pass at EasyPass</string>
+    <string name="on_duty">ON DUTY</string>
+    <string name="department">Department</string>
+    <string name="year">Year</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="date_in">Date In</string>
+    <string name="date_out">Date Out</string>
+    <string name="Select">Select</string>
+    <string name="Share">Share</string>
+    <string name="reason">Reason</string>
+    <string name="teamName">Developed by MCE 0</string>
+    <string-array name="Various_departmentSpinner">
+        <item>MECHANICAL ENGINEERING</item>
+        <item>CIVIL ENGINEERING</item>
+        <item>ELECTRONICS AND COMMUNICATION ENGINEERING</item>
+        <item>ELECTRICAL AND ELECTRONICS ENGINEERING</item>
+        <item>COMPUTER SCIENCE ENGINEERING</item>
+    </string-array>
+
+    <string-array name="Various_yearSpinner">
+        <item>I YEAR</item>
+        <item>II YEAR</item>
+        <item>III YEAR</item>
+        <item>IV YEAR</item>
+
+    </string-array>
+
+
+</resources>
